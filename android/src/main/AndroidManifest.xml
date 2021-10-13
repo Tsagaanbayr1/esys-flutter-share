@@ -11,5 +11,8 @@
                 android:name="android.support.FILE_PROVIDER_PATHS"
                 android:resource="@xml/esys_flutter_share_filepaths" />
         </provider>
+        <meta-data
+            android:name="flutterEmbedding"
+            android:value="2" />
     </application>
 </manifest>
